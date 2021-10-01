@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @snehamalakar
+- 👀 I’m interested in Web Developmaent, Programming And Eating Chocolates!
+- 🌱 I’m currently learning Web Development
